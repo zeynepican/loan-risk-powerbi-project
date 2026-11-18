@@ -50,7 +50,7 @@ It includes:
 - Default rates by loan type, income segment, age group, and region.
 - Applicant distribution by gender and joint application status.
 
-![loan_default](images/overview-dashboard.png)
+![loan_default.png](images)
 
 ### 2. Applicant & Credit Profile
 
