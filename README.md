@@ -50,7 +50,7 @@ It includes:
 - Default rates by loan type, income segment, age group, and region.
 - Applicant distribution by gender and joint application status.
 
-![loan_default.png](images)
+![Loan Default Analysis Overview](images/loan_default.png)
 
 ### 2. Applicant & Credit Profile
 
@@ -65,7 +65,7 @@ It includes:
 - Default rate by occupancy type.
 - Scatter plot showing income and loan amount by default status.
 
-![Applicant & Credit Profile](images/applicant-credit-profile.png)
+![Applicant & Credit Profile](images/applicant_credit.png)
 
 ## Key Analytical Findings
 
